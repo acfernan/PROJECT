@@ -1,0 +1,4 @@
+#!/bin/sh
+conda install -c bioconda -c conda-forge bismark
+
+
