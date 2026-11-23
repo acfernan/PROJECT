@@ -1,0 +1,5 @@
+#!/bin/sh
+/project/stuckert/acfernan/PROJECT/bismark_genome_preparation \
+--verbose \
+--parallel 6 \
+--/project/stuckert/acfernan/PROJECT/SRR23231712
