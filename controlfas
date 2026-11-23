@@ -1,0 +1,3 @@
+#!/bin/sh
+prefetch SRR23231712
+fasterq-dump --fasta --split-files SRR23231712
