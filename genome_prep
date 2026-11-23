@@ -1,0 +1,5 @@
+#!/bin/sh
+bismark_genome_preparation  \
+--verbose \
+--parallel 6 \
+--/project/stuckert/acfernan/PROJECT/control
